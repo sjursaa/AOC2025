@@ -1,3 +1,7 @@
+"""
+Solution Pt. 1
+Counters for each time dial lands at 0.
+"""
 file = open("input.txt")
 list = []
 
